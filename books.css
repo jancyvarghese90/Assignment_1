@@ -1,0 +1,43 @@
+
+#navbarCollapse{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    
+  
+ }
+#bcg{
+
+    margin-top: 100px;
+    height: 200px;
+    background-size: cover;
+  
+    color: black;
+    padding: 50px,;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+#slash{
+    color: white;
+}
+#txt{
+ margin-top: 20px;   
+ 
+}
+.card{
+    border: 2px solid white;
+   background-color: beige;
+    float: left;
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+    padding: 20px;
+    
+    
+}
+
+
+
+

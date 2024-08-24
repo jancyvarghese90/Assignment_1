@@ -1,0 +1,32 @@
+
+body{background-image: url('/images/traveloguebcgimg.avif');
+    background-size: cover;
+}
+#navbarCollapse{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    
+ }
+
+#slash{
+    color: white;
+}
+    
+#cardbg{
+
+    margin-bottom: 120px;
+}
+.card{
+    border: 5px ;
+    float: left;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 120px;
+    
+   background-color: bisque;
+    padding: 20px;
+    
+}
+
+

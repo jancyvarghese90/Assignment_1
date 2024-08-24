@@ -1,0 +1,31 @@
+
+body{background-image: url('/images/genealogybgimg.jpg');
+    background-size: cover;
+}
+#navbarCollapse{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    
+ }   
+
+.card{
+    border: 5px ;
+    float: left;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 120px;
+    
+   background-color: bisque;
+    padding: 20px;
+    
+}
+#cardbg{
+
+    margin-bottom: 120px;
+}
+#slash{
+    color: white;
+}
+
+
