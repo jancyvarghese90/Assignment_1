@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/cooking.jpg');
+    background-image: url("/images/cooking.jpg");
     background-size: cover;
 }
     
