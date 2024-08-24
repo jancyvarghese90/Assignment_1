@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/dramabgimg.jpg');
+    background-image: url('images/dramabgimg.jpg');
     background-size: cover;
 }
 #navbarCollapse{

@@ -1,6 +1,6 @@
 
 body{
-    background-image: url('/images/fantasyncgimg.jpg');
+    background-image: url('images/fantasyncgimg.jpg');
     background-size: cover;
 }
 #navbarCollapse{
